@@ -1,3 +1,3 @@
-# Mern-mini-project
+# Mern-project
  
 
