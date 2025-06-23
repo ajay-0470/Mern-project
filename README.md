@@ -9,7 +9,7 @@
 
 * **Home Page:** Displays all products in a responsive grid. Each product card shows its name, image, and price, with Edit/Delete buttons.
 * **Create Page:** A form to add a new product (fields for name, price, and image URL).
-* ![image](https://github.com/user-attachments/assets/90610d8a-39e1-4018-8811-9c1981ef233d)
+* ![image](https://github.com/user-attachments/assets/ed55b189-5127-436a-a6a5-20eed81c4639)
 ![image](https://github.com/user-attachments/assets/70d7128e-4675-4eb6-bc6e-b9e785cf7993)
 
 
