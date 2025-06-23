@@ -4,10 +4,6 @@
 
 **Product Store** is a MERN-stack (MongoDB, Express.js, React, Node.js) web app for managing a simple product catalog. It offers full **CRUD** functionality: users can add, view, edit, and delete products via a RESTful API. The backend uses Node.js and Express with a MongoDB database (via Mongoose), and the frontend is built with React (Vite) styled using Chakra UI. This results in a responsive, mobile-friendly UI with features like a dark/light mode toggle and toast notifications for user feedback.
 
-## Live Demo 🚀
-
-Try the live demo on Render: https://mern-project-5xky.onrender.com
-
 
 ## 🖼️ Screenshots
 
